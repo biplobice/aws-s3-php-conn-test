@@ -30,10 +30,6 @@ code:
 The S3 documentation has a good overview of the [restrictions for bucket names](http://docs.aws.amazon.com/AmazonS3/latest/dev/BucketRestrictions.html)
 for when you start making your own buckets.
 
-## License
-
-This sample application is distributed under the
-[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ## Screenshots
 ![Screen1](https://raw.githubusercontent.com/biplobice/aws-s3-php-conn-test/master/screenshots/screen-1.png)
